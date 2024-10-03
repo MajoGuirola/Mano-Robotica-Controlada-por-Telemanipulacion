@@ -3,19 +3,33 @@ Este proyecto se basa en replicar los movimientos de la mano humana la cual tend
 
 Los materiales utilizados son:
 •	Cartón
+
 •	Removedores de café
+
 •	Hilo de nylon
+
 •	Servomotores
+
 •	Arduino
+
 •	Resistencias
+
 •	Cinta aislante
+
 •	Cables
+
 •	Papel aluminio
+
 •	Bisagras
+
 •	Lápiz
+
 •	Protoboard
+
 •	Silicón caliente
+
 •	Papel bond
+
 •	Guante
 
 El circuito esta puesto en la protoboard, se utilziaron cables, resistencias, sensores de flexión caseros y cualquier arduino, en mi caso fue el arduino uno.
